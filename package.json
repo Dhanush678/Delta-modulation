@@ -1,0 +1,20 @@
+{
+  "name": "adaptive-delta-modulation",
+  "version": "1.0.0",
+  "description": "Example of adaptive delta modulation for digital communication systems",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Jarod Ma",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtma1/adaptive-delta-modulation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jtma1/adaptive-delta-modulation/issues"
+  },
+  "homepage": "https://github.com/jtma1/adaptive-delta-modulation#readme"
+}
